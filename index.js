@@ -1,5 +1,6 @@
 // From https://www.linkedin.com/learning/building-restful-apis-with-node-js-and-express-16069959/ with Emmanuel Henri
-// Last by Eric Waldbaum 3-13-2024 with a lot of validation and updating date and version
+// Created on new repository by Eric Waldbaum on 3-12-2024 using Tutorial and pointing to localhost endpoint
+// Updated by Eric Waldbaum 3-13-2024 with a lot of validation and updating date and version
 
 import express from 'express';
 import mongoose from 'mongoose';
